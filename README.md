@@ -21,7 +21,7 @@
    pip install rarfile tqdm requests
    ```
 
-3. Open and run the script in [Google Colab](https://colab.research.google.com/).
+3. Open and run the script in [Google Colab](https://colab.research.google.com/drive/1KeIEucAm8eW_KeymqC_IPJ1Pd6XCYQvg?usp=sharing).
 
 ## Usage
 
