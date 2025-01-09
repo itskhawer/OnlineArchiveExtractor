@@ -58,10 +58,6 @@
 
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Disclaimer
 
 This tool is provided for educational purposes. Please ensure you have the rights to download and extract files from the specified URLs.
