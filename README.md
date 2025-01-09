@@ -13,7 +13,7 @@
 
 1. Clone the repository or copy the script to your local environment:
    ```bash
-   git clone https://github.com/<your-username>/OnlineArchiveExtractor.git
+   git clone https://github.com/itskhawer/OnlineArchiveExtractor.git
    ```
 
 2. Install the required Python packages:
